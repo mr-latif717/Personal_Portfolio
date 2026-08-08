@@ -352,7 +352,7 @@ const Home = () => {
                       </span>
                     </div>
                     <div className="d-flex gap-3">
-                      <a href="#" className="btn btn-sm btn-outline-primary">
+                      <a href="https://github.com/mr-latif717/Personal_Portfolio" className="btn btn-sm btn-outline-primary">
                         GitHub
                       </a>
                       <a href="#" className="btn btn-sm btn-outline-primary">
