@@ -10,7 +10,7 @@ The project includes a React-based frontend, a Node.js/Express backend, and a My
 
 ## 📂 Repository
 
-> GitHub repository: Coming soon
+> GitHub repository: https://github.com/mr-latif717/Personal_Portfolio
 
 ---
 
